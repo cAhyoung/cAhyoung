@@ -1,4 +1,4 @@
-## AhYoung Cho, Department of DataScience
+## Ahyoung Cho, Department of DataScience
 joayoung03@gmail.com  |  [StudyBlog](https://ds-student.tistory.com/)  |  [LinkedIn](https://www.linkedin.com/in/ahyoungcho0035/)      
 
 ### Education
