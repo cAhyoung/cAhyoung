@@ -9,4 +9,7 @@ _Department of DataScience_
      
 ### Stacks
 -----
-Python | MySQL | 
+Python | MySQL
+
+### Projects
+-----
