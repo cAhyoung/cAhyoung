@@ -9,4 +9,4 @@ _Department of DataScience_
      
 ### Stacks
 -----
-Python
+Python | MySQL | 
