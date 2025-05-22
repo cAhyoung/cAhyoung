@@ -7,5 +7,6 @@ joayoung03@gmail.com  |  [StudyBlog](https://ds-student.tistory.com/)  |  [Linke
 _Department of DataScience_     
      
      
-### Experiences
+### Stacks
 -----
+Python
