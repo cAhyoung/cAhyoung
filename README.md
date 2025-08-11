@@ -9,7 +9,8 @@ _Department of DataScience_
 -----     
      
 ### Stacks
-Python | MySQL / SQL Server | 
+Python | DataScience, Application,          
+MySQL / SQL Server | Queries, Procedures       
     
 -----
 
