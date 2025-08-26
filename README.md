@@ -1,4 +1,4 @@
-## Ahyoung Cho, Software programmer
+## Ahyoung Cho, Software Programmer
 joayoung03@gmail.com  |  [StudyBlog](https://ds-student.tistory.com/)  |  [LinkedIn](https://www.linkedin.com/in/ahyoungcho0035/)      
 
 ### Education
