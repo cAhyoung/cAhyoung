@@ -1,17 +1,14 @@
-## Ahyoung Cho, All rounder
+# Ahyoung Cho, All rounder
 joayoung03@gmail.com  |  [StudyBlog](https://ds-student.tistory.com/)  |  [LinkedIn](https://www.linkedin.com/in/ahyoungcho0035/)      
 
-### Education
+## Education
     
-**Seoul Women's University**  &nbsp; &nbsp; &nbsp; &nbsp;  Seoul, Korea | March 2021 - Feb 2026      
+**Seoul Women's University**  &nbsp; &nbsp; &nbsp; &nbsp;  Seoul, Korea | March 2021 - Aug 2026      
 _Department of DataScience_          
 
 -----     
      
-### Stacks
-Python | DataScience, Application,          
-MySQL / SQL Server | Queries, Procedures, Functions       
-    
------
+## Stacks
+![Static Badge](https://img.shields.io/badge/Python-Data_Science_/_AI_/_Desktop_Application_/_Whatever-blue)        
+![Static Badge](https://img.shields.io/badge/SQL-MySQL_/_SQL_Server-lightblue)  
 
-### Projects
