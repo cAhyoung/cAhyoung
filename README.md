@@ -9,6 +9,6 @@ _Department of DataScience_
 -----     
      
 ## Stacks
-![Static Badge](https://img.shields.io/badge/Python-Data_Science_/_AI_/_Desktop_Application_/_Whatever-blue)        
+![Static Badge](https://img.shields.io/badge/Python-Data_Science_/_AI_/_Desktop_Application_/_Whatever-yellow)        
 ![Static Badge](https://img.shields.io/badge/SQL-MySQL_/_SQL_Server-lightblue)  
 
