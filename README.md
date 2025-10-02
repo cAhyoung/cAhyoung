@@ -10,8 +10,8 @@ _Department of DataScience_
      
 ## Stacks
 ### Languages
-![Static Badge](https://img.shields.io/badge/Python-Data_Science_/_AI_/_Desktop_Application_/_Whatever-yellow)        
-![Static Badge](https://img.shields.io/badge/SQL-MySQL_/_SQL_Server-lightblue)    
+![Static Badge](https://img.shields.io/badge/Python-yellow)        
+![Static Badge](https://img.shields.io/badge/SQL-lightblue)    
 
 ### Services
 ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange)  
