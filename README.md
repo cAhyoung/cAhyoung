@@ -17,25 +17,18 @@ _Department of DataScience_
 ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange)  
 ![Static Badge](https://img.shields.io/badge/API-Gemini/GPT/Claude-white)  
 
-### Frameworks, Libraries
-![img](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![img](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![img](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![img](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![img](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black)
-![img](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![img](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
+### Frameworks, Libraries 
+![Static Badge](https://img.shields.io/badge/Python-Pandas_Numpy_Flask_Pytorch_HuggingFace_Anaconda-mint)      
 
 ### Analytics, Dashboard
-![img](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![img](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tableau-green)       
+![Static Badge](https://img.shields.io/badge/Python-Streamlit_Plotly_Matplotlib_Seaborn-red)    
 
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Design-Figma-black)    
 ![Static Badge](https://img.shields.io/badge/Version_Control-Git-red)    
-![Static Badge](https://img.shields.io/badge/Virtual_Machine-WSL/VMWare-yellow)      
+![Static Badge](https://img.shields.io/badge/Virtual_Machine/Environment-WSL_VMWare_Docker_UV-yellow)      
 
 ### OS
 ![Static Badge](https://img.shields.io/badge/Ubuntu-orange)
