@@ -15,7 +15,7 @@ _Department of DataScience_
 
 ### Services
 ![Static Badge](https://img.shields.io/badge/AWS-EC2-orange)  
-![Static Badge](https://img.shields.io/badge/API-Gemini_/_GPT_/_Claude-white)  
+![Static Badge](https://img.shields.io/badge/API-Gemini/GPT/Claude-white)  
 
 ### Frameworks, Libraries
 ![img](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -33,11 +33,11 @@ _Department of DataScience_
 
 
 ### Tools
-![img](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![img](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![img](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![img](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Design-Figma-black)    
+![Static Badge](https://img.shields.io/badge/Version_Control-Git-red)    
+![Static Badge](https://img.shields.io/badge/Virtual_Machine-WSL/VMWare-yellow)      
 
 ### OS
-![img](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![img](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Ubuntu-orange)
+![Static Badge](https://img.shields.io/badge/Kali_Linux-blue)
+
