@@ -18,7 +18,8 @@ _Department of DataScience_
 ![Static Badge](https://img.shields.io/badge/API-Gemini/GPT/Claude-white)  
 
 ### Frameworks, Libraries 
-![Static Badge](https://img.shields.io/badge/Python-Pandas_Numpy_Flask_Pytorch_HuggingFace_Anaconda-mint)      
+![Static Badge](https://img.shields.io/badge/Hugging_Face-yellow)    
+![Static Badge](https://img.shields.io/badge/Python-Pandas_Numpy_Flask_Pytorch-mint)      
 
 ### Analytics, Dashboard
 ![Static Badge](https://img.shields.io/badge/Tableau-green)       
@@ -28,7 +29,7 @@ _Department of DataScience_
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Design-Figma-black)    
 ![Static Badge](https://img.shields.io/badge/Version_Control-Git-red)    
-![Static Badge](https://img.shields.io/badge/Virtual_Machine/Environment-WSL_VMWare_Docker_UV-yellow)      
+![Static Badge](https://img.shields.io/badge/Virtual_Machine/Environment-WSL_VMWare_Docker_UV_Anaconda-yellow)      
 
 ### OS
 ![Static Badge](https://img.shields.io/badge/Ubuntu-orange)
