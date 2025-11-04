@@ -19,17 +19,17 @@ _Department of DataScience_
 
 ### Frameworks, Libraries 
 ![Static Badge](https://img.shields.io/badge/Hugging_Face-yellow)    
-![Static Badge](https://img.shields.io/badge/Python-Pandas_Numpy_Flask_Pytorch-mint)      
+![Static Badge](https://img.shields.io/badge/Python-Pandas/Numpy/Flask/Pytorch-mint)      
 
 ### Analytics, Dashboard
 ![Static Badge](https://img.shields.io/badge/Tableau-green)       
-![Static Badge](https://img.shields.io/badge/Python-Streamlit_Plotly_Matplotlib_Seaborn-red)    
+![Static Badge](https://img.shields.io/badge/Python-Streamlit/Plotly/Matplotlib/Seaborn-red)    
 
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Design-Figma-black)    
 ![Static Badge](https://img.shields.io/badge/Version_Control-Git-red)    
-![Static Badge](https://img.shields.io/badge/Virtual_Machine/Environment-WSL_VMWare_Docker_UV_Anaconda-yellow)      
+![Static Badge](https://img.shields.io/badge/Virtual_Machine/Environment-WSL/VMWare/Docker/UV/Anaconda-yellow)      
 
 ### OS
 ![Static Badge](https://img.shields.io/badge/Ubuntu-orange)
