@@ -3,7 +3,7 @@ joayoung03@gmail.com  |  [StudyBlog](https://ds-student.tistory.com/)  |  [Linke
 
 ## Education
     
-**Seoul Women's University**  &nbsp; &nbsp; &nbsp; &nbsp;  Seoul, Korea | March 2021 - Feb 2026      
+**Seoul Women's University**  &nbsp; &nbsp; &nbsp; &nbsp;  Seoul, Korea     
 _Department of DataScience_          
 
 -----     
