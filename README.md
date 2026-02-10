@@ -28,8 +28,8 @@ _Department of DataScience_
 
 ### Tools
 ![Static Badge](https://img.shields.io/badge/Design-Figma-black)     
-![Static Badge](https://img.shields.io/badge/Version_Control_/_Project_Manager-Git_/_uv-red)     
-![Static Badge](https://img.shields.io/badge/Virtual_Machine_/_Environment-WSL_/_VMWare_/_Docker_/_Anaconda-yellow)
+![Static Badge](https://img.shields.io/badge/Version_Control_/_Project_Manager-Git-red)     
+![Static Badge](https://img.shields.io/badge/Virtual_Machine_/_Environment-WSL_/_VMWare_/_Docker_/_Anaconda_/_uv-yellow)
 
 ### OS
 ![Static Badge](https://img.shields.io/badge/Ubuntu-orange)     
